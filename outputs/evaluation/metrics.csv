@@ -1,0 +1,5 @@
+method,precision_at_5,recall_at_5,mrr_at_5,ndcg_at_5,latency_ms_mean,budget_satisfaction
+Context-aware TF-IDF,1.0,0.25,1.0,1.0,2.2359882501632455,0.65
+Five-agent ranking,1.0,0.25,1.0,1.0,12.226984500102844,1.0
+Keyword,0.55,0.1375,0.55,0.5328012693780855,1.105225249943942,0.5
+TF-IDF,0.95,0.2375,1.0,0.9671987306219145,2.2359882501632455,0.6

@@ -1,0 +1,2230 @@
+{
+  "catalogue_path": "data/products.csv",
+  "unique_image_policy": "one distinct, locally stored photograph per product ID",
+  "allowed_shared_product_ids": [],
+  "license": "See per-image license and attribution metadata.",
+  "category_images": {
+    "Headphones": {
+      "path": "assets/products/headphones/wireless-over-ear-headphones.jpg",
+      "alt": "Over-ear headphones, category reference.",
+      "source": "Unsplash",
+      "photo_id": "photo-1505740420928-5e560c06d30e",
+      "source_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?fm=jpg&fit=max&w=1600&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "attribution_required": false
+    },
+    "Backpacks": {
+      "path": "assets/products/backpacks/travel-backpack.jpg",
+      "alt": "Travel backpack, category reference.",
+      "source": "Unsplash",
+      "photo_id": "photo-1553062407-98eeb64c6a62",
+      "source_url": "https://images.unsplash.com/photo-1553062407-98eeb64c6a62?fm=jpg&fit=max&w=1600&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "attribution_required": false
+    },
+    "Running Shoes": {
+      "path": "assets/products/footwear/red-running-shoe.jpg",
+      "alt": "Running shoe, category reference.",
+      "source": "Unsplash",
+      "photo_id": "photo-1542291026-7eec264c27ff",
+      "source_url": "https://images.unsplash.com/photo-1542291026-7eec264c27ff?fm=jpg&fit=max&w=1600&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "attribution_required": false
+    },
+    "Smartphones": {
+      "path": "assets/products/smartphones/modern-smartphone.jpg",
+      "alt": "Smartphone, category reference.",
+      "source": "Unsplash",
+      "photo_id": "photo-1511707171634-5f897ff02aa9",
+      "source_url": "https://images.unsplash.com/photo-1511707171634-5f897ff02aa9?fm=jpg&fit=max&w=1600&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "attribution_required": false
+    },
+    "Watches": {
+      "path": "assets/products/accessories/smartwatch.jpg",
+      "alt": "Smartwatch, category reference.",
+      "source": "Unsplash",
+      "photo_id": "photo-1523275335684-37898b6baf30",
+      "source_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?fm=jpg&fit=max&w=1600&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "attribution_required": false
+    },
+    "Water Bottles": {
+      "path": "assets/products/accessories/insulated-water-bottle.jpg",
+      "alt": "Reusable water bottle, category reference.",
+      "source": "Unsplash",
+      "photo_id": "photo-1602143407151-7111542de6e8",
+      "source_url": "https://images.unsplash.com/photo-1602143407151-7111542de6e8?fm=jpg&fit=max&w=1600&q=88",
+      "license": "Unsplash License",
+      "license_url": "https://unsplash.com/license",
+      "attribution_required": false
+    }
+  },
+  "product_images": {
+    "SYN-01-001": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-001.jpg",
+      "alt": "Headphones reference photograph: Bose QuietComfort 25 Acoustic Noise Cancelling Headphones with Carry Case.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Bose QuietComfort 25 Acoustic Noise Cancelling Headphones with Carry Case.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0a/Bose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABose_QuietComfort_25_Acoustic_Noise_Cancelling_Headphones_with_Carry_Case.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Florian Fuchs",
+      "attribution": "Florian Fuchs/Wikipedia/CC-BY-SA 3.0",
+      "source_dimensions": [
+        4267,
+        3200
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-002": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-002.jpg",
+      "alt": "Headphones reference photograph: Headphones (56330).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Headphones (56330).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Headphones_%2856330%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHeadphones_%2856330%29.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "17mdnasim89",
+      "attribution": "",
+      "source_dimensions": [
+        678,
+        452
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-003": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-003.jpg",
+      "alt": "Headphones reference photograph: Headphones 1.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Headphones 1.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Headphones_1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHeadphones_1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "No machine-readable author provided. PJ assumed (based on copyright claims).",
+      "attribution": "",
+      "source_dimensions": [
+        1536,
+        1024
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-004": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-004.jpg",
+      "alt": "Headphones reference photograph: Headphones on desk.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Headphones on desk.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f6/Headphones_on_desk.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHeadphones_on_desk.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Lirazelf",
+      "attribution": "",
+      "source_dimensions": [
+        2688,
+        1520
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-005": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-005.jpg",
+      "alt": "Headphones reference photograph: AudioQuest NightHawk Carbon headphones (33582571334).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "AudioQuest NightHawk Carbon headphones (33582571334).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/1d/AudioQuest_NightHawk_Carbon_headphones_%2833582571334%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAudioQuest_NightHawk_Carbon_headphones_%2833582571334%29.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "david falkner from Birmingham, England",
+      "attribution": "",
+      "source_dimensions": [
+        1544,
+        1600
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-006": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-006.jpg",
+      "alt": "Headphones reference photograph: Steampunk-kopfhörer hg.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Steampunk-kopfhörer hg.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/01/Steampunk-kopfh%C3%B6rer_hg.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASteampunk-kopfh%C3%B6rer_hg.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hannes Grobe",
+      "attribution": "",
+      "source_dimensions": [
+        3583,
+        2905
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-007": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-007.jpg",
+      "alt": "Headphones reference photograph: Turquoise Headphones.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Turquoise Headphones.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8e/Turquoise_Headphones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATurquoise_Headphones.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Clarissa Savel",
+      "attribution": "",
+      "source_dimensions": [
+        828,
+        732
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-008": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-008.jpg",
+      "alt": "Headphones reference photograph: Headphones 3.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Headphones 3.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/65/Headphones_3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHeadphones_3.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Akb48akb",
+      "attribution": "",
+      "source_dimensions": [
+        4608,
+        3456
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-009": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-009.jpg",
+      "alt": "Headphones reference photograph: JLab Studio Black Headphones.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "JLab Studio Black Headphones.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/JLab_Studio_Black_Headphones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJLab_Studio_Black_Headphones.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Maomaoox",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-010": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-010.jpg",
+      "alt": "Headphones reference photograph: 2023 Słuchawki Sony WI-XB400 (1).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "2023 Słuchawki Sony WI-XB400 (1).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/2023_S%C5%82uchawki_Sony_WI-XB400_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A2023_S%C5%82uchawki_Sony_WI-XB400_%281%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Jacek Halicki",
+      "attribution": "",
+      "source_dimensions": [
+        5290,
+        3670
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-011": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-011.jpg",
+      "alt": "Headphones reference photograph: Sennheiser HD650 headphones.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Sennheiser HD650 headphones.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/Sennheiser_HD650_headphones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASennheiser_HD650_headphones.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Lucasbosch",
+      "attribution": "",
+      "source_dimensions": [
+        5472,
+        3648
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-012": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-012.jpg",
+      "alt": "Headphones reference photograph: Black brown headphones wired.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Black brown headphones wired.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a0/Black_brown_headphones_wired.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABlack_brown_headphones_wired.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Marcus-richardson",
+      "attribution": "",
+      "source_dimensions": [
+        2560,
+        1920
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-013": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-013.jpg",
+      "alt": "Headphones reference photograph: 2023 Słuchawki Sennheiser HD 540.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "2023 Słuchawki Sennheiser HD 540.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/2023_S%C5%82uchawki_Sennheiser_HD_540.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A2023_S%C5%82uchawki_Sennheiser_HD_540.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Jacek Halicki",
+      "attribution": "",
+      "source_dimensions": [
+        4783,
+        3340
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-014": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-014.jpg",
+      "alt": "Headphones reference photograph: Audio Technica headphones 01.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Audio Technica headphones 01.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/Audio_Technica_headphones_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAudio_Technica_headphones_01.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Gpkp",
+      "attribution": "",
+      "source_dimensions": [
+        4080,
+        3072
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-015": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-015.jpg",
+      "alt": "Headphones reference photograph: Sennheiser RS 175 wireless headphone + station 2,44 ghz.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Sennheiser RS 175 wireless headphone + station 2,44 ghz.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d3/Sennheiser_RS_175_wireless_headphone_%2B_station_2%2C44_ghz.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASennheiser_RS_175_wireless_headphone_%2B_station_2%2C44_ghz.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Richardkiwi",
+      "attribution": "",
+      "source_dimensions": [
+        1404,
+        1083
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-016": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-016.jpg",
+      "alt": "Headphones reference photograph: Grado SR60X.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Grado SR60X.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/78/Grado_SR60X.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGrado_SR60X.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Padgriffin",
+      "attribution": "",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-017": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-017.jpg",
+      "alt": "Headphones reference photograph: 1970s or earlier Queen 505 8 Ohm headphones made in Japan.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "1970s or earlier Queen 505 8 Ohm headphones made in Japan.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/41/1970s_or_earlier_Queen_505_8_Ohm_headphones_made_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A1970s_or_earlier_Queen_505_8_Ohm_headphones_made_in_Japan.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "R. Henrik Nilsson",
+      "attribution": "",
+      "source_dimensions": [
+        2305,
+        3553
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-018": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-018.jpg",
+      "alt": "Headphones reference photograph: 1970s or earlier Elega DR 243C stereo headphones made in Japan.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "1970s or earlier Elega DR 243C stereo headphones made in Japan.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5b/1970s_or_earlier_Elega_DR_243C_stereo_headphones_made_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3A1970s_or_earlier_Elega_DR_243C_stereo_headphones_made_in_Japan.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "R. Henrik Nilsson",
+      "attribution": "",
+      "source_dimensions": [
+        2120,
+        3336
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-019": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-019.jpg",
+      "alt": "Headphones reference photograph: Digital Stereo Headphones.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Digital Stereo Headphones.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/c/c7/Digital_Stereo_Headphones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADigital_Stereo_Headphones.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "",
+      "attribution": "",
+      "source_dimensions": [
+        1600,
+        1200
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-01-020": {
+      "category": "Headphones",
+      "path": "assets/products/headphones/SYN-01-020.jpg",
+      "alt": "Headphones reference photograph: Action-Max-Stereo-Headphones.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Action-Max-Stereo-Headphones.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4f/Action-Max-Stereo-Headphones.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAction-Max-Stereo-Headphones.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Evan-Amos",
+      "attribution": "",
+      "source_dimensions": [
+        3360,
+        4110
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-001": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-001.jpg",
+      "alt": "Backpacks reference photograph: Plecak Hiker 50 L HiMountain.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Plecak Hiker 50 L HiMountain.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a1/Plecak_Hiker_50_L_HiMountain.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APlecak_Hiker_50_L_HiMountain.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "WrS.tm.pl",
+      "attribution": "",
+      "source_dimensions": [
+        1197,
+        778
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-002": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-002.jpg",
+      "alt": "Backpacks reference photograph: Backpack small.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Backpack small.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/81/Backpack_small.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABackpack_small.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Виктор Пинчук",
+      "attribution": "",
+      "source_dimensions": [
+        1730,
+        1541
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-003": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-003.jpg",
+      "alt": "Backpacks reference photograph: Military backpack 01.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Military backpack 01.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3f/Military_backpack_01.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMilitary_backpack_01.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Pegasovagante",
+      "attribution": "",
+      "source_dimensions": [
+        1505,
+        2495
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-004": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-004.jpg",
+      "alt": "Backpacks reference photograph: Backpack (AM 650840).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Backpack (AM 650840).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f8/Backpack_%28AM_650840%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABackpack_%28AM_650840%29.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Unknown authorUnknown author",
+      "attribution": "Auckland Museum",
+      "source_dimensions": [
+        3864,
+        2596
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-005": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-005.jpg",
+      "alt": "Backpacks reference photograph: Rucksack von Coocazoo.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Rucksack von Coocazoo.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/12/Rucksack_von_Coocazoo.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARucksack_von_Coocazoo.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Hama GmbH & Co KG",
+      "attribution": "",
+      "source_dimensions": [
+        350,
+        350
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-006": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-006.jpg",
+      "alt": "Backpacks reference photograph: Wenger backpack.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Wenger backpack.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Wenger_backpack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWenger_backpack.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Sir Tragedy",
+      "attribution": "",
+      "source_dimensions": [
+        3120,
+        3880
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-007": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-007.jpg",
+      "alt": "Backpacks reference photograph: Red and blue champion backpack.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Red and blue champion backpack.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b4/Red_and_blue_champion_backpack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARed_and_blue_champion_backpack.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "I AM GOING TO DRINK OCEAN WATER",
+      "attribution": "",
+      "source_dimensions": [
+        2296,
+        4080
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-008": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-008.jpg",
+      "alt": "Backpacks reference photograph: Fjallraven, OutDoor 2018, Friedrichshafen (1X7A0438).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Fjallraven, OutDoor 2018, Friedrichshafen (1X7A0438).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a9/Fjallraven%2C_OutDoor_2018%2C_Friedrichshafen_%281X7A0438%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AFjallraven%2C_OutDoor_2018%2C_Friedrichshafen_%281X7A0438%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Matti Blume",
+      "attribution": "",
+      "source_dimensions": [
+        4480,
+        5600
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-009": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-009.jpg",
+      "alt": "Backpacks reference photograph: Noordik tas 210.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Noordik tas 210.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Noordik_tas_210.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANoordik_tas_210.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Marco van der waal",
+      "attribution": "",
+      "source_dimensions": [
+        3264,
+        2448
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-010": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-010.jpg",
+      "alt": "Backpacks reference photograph: Mochila de la JMJ 2011.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Mochila de la JMJ 2011.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a5/Mochila_de_la_JMJ_2011.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMochila_de_la_JMJ_2011.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Fumedecaroso",
+      "attribution": "",
+      "source_dimensions": [
+        1024,
+        1280
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-011": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-011.jpg",
+      "alt": "Backpacks reference photograph: Zaino rosa.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Zaino rosa.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/40/Zaino_rosa.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AZaino_rosa.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Carola.Puglia24",
+      "attribution": "",
+      "source_dimensions": [
+        2998,
+        3660
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-012": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-012.jpg",
+      "alt": "Backpacks reference photograph: Eastpak Sugarbush backpack black.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Eastpak Sugarbush backpack black.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/02/Eastpak_Sugarbush_backpack_black.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEastpak_Sugarbush_backpack_black.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ubcule",
+      "attribution": "Ubcule",
+      "source_dimensions": [
+        3264,
+        3264
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-013": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-013.jpg",
+      "alt": "Backpacks reference photograph: Ortlieb Atrack, OutDoor 2018, Friedrichshafen (1X7A9931) (cropped).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Ortlieb Atrack, OutDoor 2018, Friedrichshafen (1X7A9931) (cropped).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/db/Ortlieb_Atrack%2C_OutDoor_2018%2C_Friedrichshafen_%281X7A9931%29_%28cropped%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AOrtlieb_Atrack%2C_OutDoor_2018%2C_Friedrichshafen_%281X7A9931%29_%28cropped%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Matti Blume",
+      "attribution": "",
+      "source_dimensions": [
+        2615,
+        3267
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-014": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-014.jpg",
+      "alt": "Backpacks reference photograph: Backpack Klein Tools.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Backpack Klein Tools.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/80/Backpack_Klein_Tools.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABackpack_Klein_Tools.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Klein Tools",
+      "attribution": "",
+      "source_dimensions": [
+        1000,
+        1000
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-015": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-015.jpg",
+      "alt": "Backpacks reference photograph: Quechua backpack - A.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Quechua backpack - A.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/83/Quechua_backpack_-_A.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AQuechua_backpack_-_A.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Fructibus",
+      "attribution": "",
+      "source_dimensions": [
+        3456,
+        4608
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-016": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-016.jpg",
+      "alt": "Backpacks reference photograph: Backpack-1.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Backpack-1.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Backpack-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABackpack-1.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Wikisafar",
+      "attribution": "",
+      "source_dimensions": [
+        1794,
+        1806
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-017": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-017.jpg",
+      "alt": "Backpacks reference photograph: Aarn Featherlite Freedom balance pack and balance pockets.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Aarn Featherlite Freedom balance pack and balance pockets.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Aarn_Featherlite_Freedom_balance_pack_and_balance_pockets.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAarn_Featherlite_Freedom_balance_pack_and_balance_pockets.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Starflower27000",
+      "attribution": "",
+      "source_dimensions": [
+        4615,
+        5424
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-018": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-018.jpg",
+      "alt": "Backpacks reference photograph: Jansport Backpack 2 2019-03-07.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Jansport Backpack 2 2019-03-07.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/47/Jansport_Backpack_2_2019-03-07.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJansport_Backpack_2_2019-03-07.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "FASTILY",
+      "attribution": "",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-019": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-019.jpg",
+      "alt": "Backpacks reference photograph: MInaal Backpack (17490775205).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "MInaal Backpack (17490775205).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ae/MInaal_Backpack_%2817490775205%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMInaal_Backpack_%2817490775205%29.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Tony Webster from Minneapolis, Minnesota, United States",
+      "attribution": "",
+      "source_dimensions": [
+        2448,
+        3264
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-02-020": {
+      "category": "Backpacks",
+      "path": "assets/products/backpacks/SYN-02-020.jpg",
+      "alt": "Backpacks reference photograph: VAUDE Asymmetric Backpack.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "VAUDE Asymmetric Backpack.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/52/VAUDE_Asymmetric_Backpack.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AVAUDE_Asymmetric_Backpack.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "VAUDE-Photos",
+      "attribution": "",
+      "source_dimensions": [
+        2050,
+        2665
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-001": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-001.jpg",
+      "alt": "Smartphones reference photograph: Nokia 6670.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Nokia 6670.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/48/Nokia_6670.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANokia_6670.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "AnVuong1222004",
+      "attribution": "",
+      "source_dimensions": [
+        2364,
+        2367
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-002": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-002.jpg",
+      "alt": "Smartphones reference photograph: Blackview A60 Smartphone Android mobile phone and folio case.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Blackview A60 Smartphone Android mobile phone and folio case.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/be/Blackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABlackview_A60_Smartphone_Android_mobile_phone_and_folio_case.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Acabashi",
+      "attribution": "",
+      "source_dimensions": [
+        4656,
+        3492
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-003": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-003.jpg",
+      "alt": "Smartphones reference photograph: Smartphone con auricolari.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Smartphone con auricolari.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/73/Smartphone_con_auricolari.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASmartphone_con_auricolari.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Giacomo Alessandroni",
+      "attribution": "",
+      "source_dimensions": [
+        3000,
+        4000
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-004": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-004.jpg",
+      "alt": "Smartphones reference photograph: Samsung Galaxy Mini.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Samsung Galaxy Mini.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Samsung_Galaxy_Mini.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASamsung_Galaxy_Mini.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Dienthoaiquangcao4",
+      "attribution": "",
+      "source_dimensions": [
+        1844,
+        3436
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-005": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-005.jpg",
+      "alt": "Smartphones reference photograph: Smartphone.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Smartphone.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/3d/Smartphone.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASmartphone.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ka Kit Pang",
+      "attribution": "",
+      "source_dimensions": [
+        4624,
+        3472
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-006": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-006.jpg",
+      "alt": "Smartphones reference photograph: Samsung Galaxy J6.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Samsung Galaxy J6.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/22/Samsung_Galaxy_J6.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASamsung_Galaxy_J6.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Prométhée",
+      "attribution": "CC BY-SA 3.0, A. Delesse (Prométhée)",
+      "source_dimensions": [
+        549,
+        1151
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-007": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-007.jpg",
+      "alt": "Smartphones reference photograph: Huawei U8950D no cover.JPG",
+      "source": "Wikimedia Commons",
+      "source_title": "Huawei U8950D no cover.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Huawei_U8950D_no_cover.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHuawei_U8950D_no_cover.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Ilya Plekhanov",
+      "attribution": "",
+      "source_dimensions": [
+        2000,
+        1333
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-008": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-008.jpg",
+      "alt": "Smartphones reference photograph: Xiaomi Redmi Note 10 Pro.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Xiaomi Redmi Note 10 Pro.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d4/Xiaomi_Redmi_Note_10_Pro.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AXiaomi_Redmi_Note_10_Pro.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Petar Milošević",
+      "attribution": "",
+      "source_dimensions": [
+        8405,
+        6120
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-009": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-009.jpg",
+      "alt": "Smartphones reference photograph: Crosscall-Core-X4-byRundvald.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Crosscall-Core-X4-byRundvald.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/94/Crosscall-Core-X4-byRundvald.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ACrosscall-Core-X4-byRundvald.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Rundvald",
+      "attribution": "",
+      "source_dimensions": [
+        3447,
+        3117
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-010": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-010.jpg",
+      "alt": "Smartphones reference photograph: Huawei P10.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Huawei P10.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f1/Huawei_P10.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHuawei_P10.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Petar Milošević",
+      "attribution": "",
+      "source_dimensions": [
+        3058,
+        2437
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-011": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-011.jpg",
+      "alt": "Smartphones reference photograph: IPhone 5.png",
+      "source": "Wikimedia Commons",
+      "source_title": "IPhone 5.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fa/IPhone_5.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AIPhone_5.png",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Zach Vega",
+      "attribution": "",
+      "source_dimensions": [
+        2500,
+        4722
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-012": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-012.jpg",
+      "alt": "Smartphones reference photograph: Early Android phone by EMOBILE.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Early Android phone by EMOBILE.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/50/Early_Android_phone_by_EMOBILE.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEarly_Android_phone_by_EMOBILE.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Syced",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-013": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-013.jpg",
+      "alt": "Smartphones reference photograph: EMOBILE LTE phone in Japan.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "EMOBILE LTE phone in Japan.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/38/EMOBILE_LTE_phone_in_Japan.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AEMOBILE_LTE_phone_in_Japan.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Syced",
+      "attribution": "",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-014": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-014.jpg",
+      "alt": "Smartphones reference photograph: Samsung Galaxy Note 10 (Wiki).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Samsung Galaxy Note 10 (Wiki).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/18/Samsung_Galaxy_Note_10_%28Wiki%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASamsung_Galaxy_Note_10_%28Wiki%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "嘉傑",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-015": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-015.jpg",
+      "alt": "Smartphones reference photograph: Lenovo Vibe X2 smartphone (15060938217).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Lenovo Vibe X2 smartphone (15060938217).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Lenovo_Vibe_X2_smartphone_%2815060938217%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALenovo_Vibe_X2_smartphone_%2815060938217%29.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Maurizio Pesce from Milan, Italia",
+      "attribution": "",
+      "source_dimensions": [
+        5184,
+        3456
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-016": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-016.jpg",
+      "alt": "Smartphones reference photograph: Nokia N72.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Nokia N72.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6a/Nokia_N72.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANokia_N72.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "Coercorash at English Wikipedia",
+      "attribution": "",
+      "source_dimensions": [
+        480,
+        640
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-017": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-017.jpg",
+      "alt": "Smartphones reference photograph: Nokia n93-1.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Nokia n93-1.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/62/Nokia_n93-1.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANokia_n93-1.jpg",
+      "license": "CC BY-SA 3.0",
+      "license_url": "http://creativecommons.org/licenses/by-sa/3.0/",
+      "artist": "affemitwaffe",
+      "attribution": "",
+      "source_dimensions": [
+        2048,
+        1536
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-018": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-018.jpg",
+      "alt": "Smartphones reference photograph: Acer Iconia Smart.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Acer Iconia Smart.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/82/Acer_Iconia_Smart.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAcer_Iconia_Smart.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Pikashaverma",
+      "attribution": "",
+      "source_dimensions": [
+        3812,
+        2859
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-019": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-019.jpg",
+      "alt": "Smartphones reference photograph: Pinephone betaedition.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Pinephone betaedition.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/00/Pinephone_betaedition.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APinephone_betaedition.png",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "ICCCC",
+      "attribution": "",
+      "source_dimensions": [
+        900,
+        1864
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-03-020": {
+      "category": "Smartphones",
+      "path": "assets/products/smartphones/SYN-03-020.jpg",
+      "alt": "Smartphones reference photograph: Galaxy a01 russian market.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Galaxy a01 russian market.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bc/Galaxy_a01_russian_market.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGalaxy_a01_russian_market.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "PoetVeches",
+      "attribution": "",
+      "source_dimensions": [
+        1366,
+        768
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-001": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-001.jpg",
+      "alt": "Running Shoes reference photograph: Mizuno Wave Ibuki 2.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Mizuno Wave Ibuki 2.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b8/Mizuno_Wave_Ibuki_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMizuno_Wave_Ibuki_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Petar Milošević",
+      "attribution": "",
+      "source_dimensions": [
+        14176,
+        10265
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-002": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-002.jpg",
+      "alt": "Running Shoes reference photograph: Asics Gel-Cumulus 22.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Asics Gel-Cumulus 22.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8b/Asics_Gel-Cumulus_22.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAsics_Gel-Cumulus_22.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Petar Milošević",
+      "attribution": "",
+      "source_dimensions": [
+        4668,
+        4003
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-003": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-003.jpg",
+      "alt": "Running Shoes reference photograph: Brooks Ghost 14 GTX.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Brooks Ghost 14 GTX.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/e1/Brooks_Ghost_14_GTX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABrooks_Ghost_14_GTX.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Petar Milošević",
+      "attribution": "",
+      "source_dimensions": [
+        6220,
+        5039
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-004": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-004.jpg",
+      "alt": "Running Shoes reference photograph: Brooks Adrenaline GTS 18.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Brooks Adrenaline GTS 18.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/Brooks_Adrenaline_GTS_18.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABrooks_Adrenaline_GTS_18.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "JSFarman",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        2332
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-005": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-005.jpg",
+      "alt": "Running Shoes reference photograph: Reebok Royal Glide Ripple Clip shoe.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Reebok Royal Glide Ripple Clip shoe.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Reebok_Royal_Glide_Ripple_Clip_shoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AReebok_Royal_Glide_Ripple_Clip_shoe.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Petar Milošević",
+      "attribution": "",
+      "source_dimensions": [
+        4600,
+        3344
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-006": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-006.jpg",
+      "alt": "Running Shoes reference photograph: Running shoes.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Running shoes.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a7/Running_shoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARunning_shoes.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Tiia Monto",
+      "attribution": "",
+      "source_dimensions": [
+        3616,
+        3304
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-007": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-007.jpg",
+      "alt": "Running Shoes reference photograph: Salomon trail running shoes women Speedcross.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Salomon trail running shoes women Speedcross.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6b/Salomon_trail_running_shoes_women_Speedcross.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASalomon_trail_running_shoes_women_Speedcross.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Jjanhone",
+      "attribution": "",
+      "source_dimensions": [
+        4575,
+        2095
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-008": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-008.jpg",
+      "alt": "Running Shoes reference photograph: On Clouds running shoes.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "On Clouds running shoes.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/89/On_Clouds_running_shoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AOn_Clouds_running_shoes.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Goodreg3",
+      "attribution": "",
+      "source_dimensions": [
+        1502,
+        1170
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-009": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-009.jpg",
+      "alt": "Running Shoes reference photograph: World Balance Speed Runners M, 2024.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "World Balance Speed Runners M, 2024.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/71/World_Balance_Speed_Runners_M%2C_2024.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWorld_Balance_Speed_Runners_M%2C_2024.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bagoto",
+      "attribution": "",
+      "source_dimensions": [
+        2040,
+        918
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-010": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-010.jpg",
+      "alt": "Running Shoes reference photograph: Asics GT-2000 NEW YORK.JPG",
+      "source": "Wikimedia Commons",
+      "source_title": "Asics GT-2000 NEW YORK.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/61/Asics_GT-2000_NEW_YORK.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAsics_GT-2000_NEW_YORK.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Ketchup-j",
+      "attribution": "",
+      "source_dimensions": [
+        4000,
+        3000
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-011": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-011.jpg",
+      "alt": "Running Shoes reference photograph: Hoka Running Shoe.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Hoka Running Shoe.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/bb/Hoka_Running_Shoe.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHoka_Running_Shoe.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Mimimccraney",
+      "attribution": "",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-012": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-012.jpg",
+      "alt": "Running Shoes reference photograph: Trail Running Shoes Asics Gel Trail Lahar 5 GTX.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Trail Running Shoes Asics Gel Trail Lahar 5 GTX.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/56/Trail_Running_Shoes_Asics_Gel_Trail_Lahar_5_GTX.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ATrail_Running_Shoes_Asics_Gel_Trail_Lahar_5_GTX.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Rogainer",
+      "attribution": "",
+      "source_dimensions": [
+        545,
+        470
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-013": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-013.jpg",
+      "alt": "Running Shoes reference photograph: On Cloudflow running shoes.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "On Cloudflow running shoes.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/69/On_Cloudflow_running_shoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AOn_Cloudflow_running_shoes.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Deansfa",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-014": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-014.jpg",
+      "alt": "Running Shoes reference photograph: Athletic Running Shoes.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Athletic Running Shoes.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Athletic_Running_Shoes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAthletic_Running_Shoes.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Knixon4",
+      "attribution": "",
+      "source_dimensions": [
+        1300,
+        980
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-015": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-015.jpg",
+      "alt": "Running Shoes reference photograph: Altra trail running shoe, Lone Peak, top view.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Altra trail running shoe, Lone Peak, top view.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9e/Altra_trail_running_shoe%2C_Lone_Peak%2C_top_view.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAltra_trail_running_shoe%2C_Lone_Peak%2C_top_view.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "IceCreamForEveryone",
+      "attribution": "",
+      "source_dimensions": [
+        2988,
+        5312
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-016": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-016.jpg",
+      "alt": "Running Shoes reference photograph: New Balance 1225 Running Shoes.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "New Balance 1225 Running Shoes.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/7/74/New_Balance_1225_Running_Shoes.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANew_Balance_1225_Running_Shoes.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "slgckgc",
+      "attribution": "",
+      "source_dimensions": [
+        2716,
+        1818
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-017": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-017.jpg",
+      "alt": "Running Shoes reference photograph: Hoka clifton 3 (1).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Hoka clifton 3 (1).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2a/Hoka_clifton_3_%281%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHoka_clifton_3_%281%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Apkurt",
+      "attribution": "",
+      "source_dimensions": [
+        640,
+        480
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-018": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-018.jpg",
+      "alt": "Running Shoes reference photograph: Saucony Type A8.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Saucony Type A8.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/ab/Saucony_Type_A8.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASaucony_Type_A8.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Tiia Monto",
+      "attribution": "",
+      "source_dimensions": [
+        3035,
+        2347
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-019": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-019.jpg",
+      "alt": "Running Shoes reference photograph: Saucony Fastwitch 9.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Saucony Fastwitch 9.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/20/Saucony_Fastwitch_9.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASaucony_Fastwitch_9.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Tiia Monto",
+      "attribution": "",
+      "source_dimensions": [
+        2999,
+        2358
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-04-020": {
+      "category": "Running Shoes",
+      "path": "assets/products/footwear/SYN-04-020.jpg",
+      "alt": "Running Shoes reference photograph: Merrell Vapor Glove 3 shoes.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Merrell Vapor Glove 3 shoes.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/ba/Merrell_Vapor_Glove_3_shoes.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMerrell_Vapor_Glove_3_shoes.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Tiia Monto",
+      "attribution": "Tiia Monto",
+      "source_dimensions": [
+        3109,
+        2715
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-001": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-001.jpg",
+      "alt": "Water Bottles reference photograph: Stainless Steel Water Bottle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Stainless Steel Water Bottle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Stainless_Steel_Water_Bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AStainless_Steel_Water_Bottle.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Gannu03",
+      "attribution": "",
+      "source_dimensions": [
+        3776,
+        5664
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-002": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-002.jpg",
+      "alt": "Water Bottles reference photograph: Niksun stainless steel water bottle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Niksun stainless steel water bottle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f7/Niksun_stainless_steel_water_bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ANiksun_stainless_steel_water_bottle.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Jonathan Schilling",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-003": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-003.jpg",
+      "alt": "Water Bottles reference photograph: A Tiger Corp. Stainless Steel Bottle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "A Tiger Corp. Stainless Steel Bottle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/98/A_Tiger_Corp._Stainless_Steel_Bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AA_Tiger_Corp._Stainless_Steel_Bottle.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "TwentytwoAug",
+      "attribution": "",
+      "source_dimensions": [
+        667,
+        1686
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-004": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-004.jpg",
+      "alt": "Water Bottles reference photograph: Stainless steel water bottle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Stainless steel water bottle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Stainless_steel_water_bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AStainless_steel_water_bottle.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Corn cheese",
+      "attribution": "",
+      "source_dimensions": [
+        1550,
+        2405
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-005": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-005.jpg",
+      "alt": "Water Bottles reference photograph: Stainless steel 800 ml H2O Zone bottle.JPG",
+      "source": "Wikimedia Commons",
+      "source_title": "Stainless steel 800 ml H2O Zone bottle.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b5/Stainless_steel_800_ml_H2O_Zone_bottle.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AStainless_steel_800_ml_H2O_Zone_bottle.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "BrokenSphere",
+      "attribution": "",
+      "source_dimensions": [
+        1248,
+        3264
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-006": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-006.jpg",
+      "alt": "Water Bottles reference photograph: Polar Bottle® Half Twist™ Bottles.JPG",
+      "source": "Wikimedia Commons",
+      "source_title": "Polar Bottle® Half Twist™ Bottles.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f0/Polar_Bottle%C2%AE_Half_Twist%E2%84%A2_Bottles.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APolar_Bottle%C2%AE_Half_Twist%E2%84%A2_Bottles.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Tikboodle",
+      "attribution": "",
+      "source_dimensions": [
+        2841,
+        1799
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-007": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-007.jpg",
+      "alt": "Water Bottles reference photograph: Waterbottle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Waterbottle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/67/Waterbottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWaterbottle.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Sjennings2",
+      "attribution": "",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-008": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-008.jpg",
+      "alt": "Water Bottles reference photograph: Metal Water Bottles.jpeg",
+      "source": "Wikimedia Commons",
+      "source_title": "Metal Water Bottles.jpeg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/45/Metal_Water_Bottles.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMetal_Water_Bottles.jpeg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Amraepowell",
+      "attribution": "",
+      "source_dimensions": [
+        1024,
+        768
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-009": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-009.jpg",
+      "alt": "Water Bottles reference photograph: RapidRide water bottle (5042358699).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "RapidRide water bottle (5042358699).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/RapidRide_water_bottle_%285042358699%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ARapidRide_water_bottle_%285042358699%29.jpg",
+      "license": "CC BY-SA 2.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/2.0",
+      "artist": "Atomic Taco from Seattle, WA, USA",
+      "attribution": "",
+      "source_dimensions": [
+        3233,
+        4851
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-010": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-010.jpg",
+      "alt": "Water Bottles reference photograph: JOB water bottle (cropped1).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "JOB water bottle (cropped1).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/03/JOB_water_bottle_%28cropped1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AJOB_water_bottle_%28cropped1%29.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Jarrett Campbell",
+      "attribution": "",
+      "source_dimensions": [
+        655,
+        906
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-011": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-011.jpg",
+      "alt": "Water Bottles reference photograph: MVP-sports-snacks-water-bottle (15093546478).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "MVP-sports-snacks-water-bottle (15093546478).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/57/MVP-sports-snacks-water-bottle_%2815093546478%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMVP-sports-snacks-water-bottle_%2815093546478%29.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Personal Creations",
+      "attribution": "Personal Creations",
+      "source_dimensions": [
+        3000,
+        2000
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-012": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-012.jpg",
+      "alt": "Water Bottles reference photograph: Wii Fit Sports Bottles.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Wii Fit Sports Bottles.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f5/Wii_Fit_Sports_Bottles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWii_Fit_Sports_Bottles.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Josh Smith",
+      "attribution": "",
+      "source_dimensions": [
+        1280,
+        960
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-013": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-013.jpg",
+      "alt": "Water Bottles reference photograph: Thermos closed - Thermos fermé.JPG",
+      "source": "Wikimedia Commons",
+      "source_title": "Thermos closed - Thermos fermé.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/90/Thermos_closed_-_Thermos_ferm%C3%A9.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThermos_closed_-_Thermos_ferm%C3%A9.JPG",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Migmoug",
+      "attribution": "",
+      "source_dimensions": [
+        1936,
+        1936
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-014": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-014.jpg",
+      "alt": "Water Bottles reference photograph: Thermos.JPG",
+      "source": "Wikimedia Commons",
+      "source_title": "Thermos.JPG",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fc/Thermos.JPG?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AThermos.JPG",
+      "license": "CC BY-SA 3.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/3.0",
+      "artist": "Denae Bedard",
+      "attribution": "Dhscommtech",
+      "source_dimensions": [
+        1704,
+        2048
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-015": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-015.jpg",
+      "alt": "Water Bottles reference photograph: ReusableWaterBottle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "ReusableWaterBottle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b2/ReusableWaterBottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AReusableWaterBottle.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Bibeyjj",
+      "attribution": "",
+      "source_dimensions": [
+        2448,
+        3264
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-016": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-016.jpg",
+      "alt": "Water Bottles reference photograph: Multiple reusable water bottles.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Multiple reusable water bottles.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9d/Multiple_reusable_water_bottles.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMultiple_reusable_water_bottles.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Worlds Direction",
+      "attribution": "",
+      "source_dimensions": [
+        1024,
+        687
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-017": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-017.jpg",
+      "alt": "Water Bottles reference photograph: Montclair Film Festival Water Bottle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Montclair Film Festival Water Bottle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/37/Montclair_Film_Festival_Water_Bottle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AMontclair_Film_Festival_Water_Bottle.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Montclair Film",
+      "attribution": "",
+      "source_dimensions": [
+        3603,
+        3875
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-018": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-018.jpg",
+      "alt": "Water Bottles reference photograph: Wikimedia Bangladesh Water Bottle (DSC00360).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Wikimedia Bangladesh Water Bottle (DSC00360).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/9b/Wikimedia_Bangladesh_Water_Bottle_%28DSC00360%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AWikimedia_Bangladesh_Water_Bottle_%28DSC00360%29.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Moheen Reeyad",
+      "attribution": "© Moheen Reeyad",
+      "source_dimensions": [
+        3780,
+        5040
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-019": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-019.jpg",
+      "alt": "Water Bottles reference photograph: GatoradeBottle (50644828206).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "GatoradeBottle (50644828206).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/92/GatoradeBottle_%2850644828206%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGatoradeBottle_%2850644828206%29.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Finley Dufton",
+      "attribution": "",
+      "source_dimensions": [
+        6000,
+        4000
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-05-020": {
+      "category": "Water Bottles",
+      "path": "assets/products/accessories/SYN-05-020.jpg",
+      "alt": "Water Bottles reference photograph: Bottle, water (AM 1973.96-1).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Bottle, water (AM 1973.96-1).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/04/Bottle%2C_water_%28AM_1973.96-1%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABottle%2C_water_%28AM_1973.96-1%29.jpg",
+      "license": "CC BY 4.0",
+      "license_url": "https://creativecommons.org/licenses/by/4.0",
+      "artist": "Landers, Frary & Clark",
+      "attribution": "Auckland Museum",
+      "source_dimensions": [
+        2907,
+        4360
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-001": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-001.jpg",
+      "alt": "Watches reference photograph: Black Olio Brown Leather Strap Front.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Black Olio Brown Leather Strap Front.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4c/Black_Olio_Brown_Leather_Strap_Front.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ABlack_Olio_Brown_Leather_Strap_Front.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "United States Federal Communications Commission",
+      "attribution": "",
+      "source_dimensions": [
+        3119,
+        3167
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-002": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-002.jpg",
+      "alt": "Watches reference photograph: Huawei Smartwatch Fit 2.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Huawei Smartwatch Fit 2.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/f4/Huawei_Smartwatch_Fit_2.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHuawei_Smartwatch_Fit_2.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "D Eaketts",
+      "attribution": "",
+      "source_dimensions": [
+        5184,
+        3888
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-003": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-003.jpg",
+      "alt": "Watches reference photograph: Huawei Smartwatch (Band 4).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Huawei Smartwatch (Band 4).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/4/4e/Huawei_Smartwatch_%28Band_4%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AHuawei_Smartwatch_%28Band_4%29.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "TheArchivistMan",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        2268
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-004": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-004.jpg",
+      "alt": "Watches reference photograph: Smartwatch-828786.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Smartwatch-828786.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Smartwatch-828786.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASmartwatch-828786.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Crew",
+      "attribution": "",
+      "source_dimensions": [
+        4896,
+        3264
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-005": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-005.jpg",
+      "alt": "Watches reference photograph: Smartwatch-health2.png",
+      "source": "Wikimedia Commons",
+      "source_title": "Smartwatch-health2.png",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Smartwatch-health2.png?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASmartwatch-health2.png",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Eschenzweig",
+      "attribution": "",
+      "source_dimensions": [
+        1907,
+        2347
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-006": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-006.jpg",
+      "alt": "Watches reference photograph: PineTime smartwatch.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "PineTime smartwatch.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/6/6c/PineTime_smartwatch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APineTime_smartwatch.jpg",
+      "license": "CC0",
+      "license_url": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "artist": "Unnerving duck",
+      "attribution": "",
+      "source_dimensions": [
+        3000,
+        4000
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-007": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-007.jpg",
+      "alt": "Watches reference photograph: LG G Watch Smartwatch.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "LG G Watch Smartwatch.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/3/31/LG_G_Watch_Smartwatch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALG_G_Watch_Smartwatch.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Chris F",
+      "attribution": "",
+      "source_dimensions": [
+        493,
+        340
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-008": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-008.jpg",
+      "alt": "Watches reference photograph: Smartwatch.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Smartwatch.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/0e/Smartwatch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASmartwatch.jpg",
+      "license": "Public domain",
+      "license_url": "",
+      "artist": "嘉傑",
+      "attribution": "",
+      "source_dimensions": [
+        4032,
+        3024
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-009": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-009.jpg",
+      "alt": "Watches reference photograph: LG G Watch R.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "LG G Watch R.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/f/fe/LG_G_Watch_R.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ALG_G_Watch_R.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "https://www.flickr.com/people/lge/",
+      "attribution": "",
+      "source_dimensions": [
+        1036,
+        1422
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-010": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-010.jpg",
+      "alt": "Watches reference photograph: Smartwatches.jpeg",
+      "source": "Wikimedia Commons",
+      "source_title": "Smartwatches.jpeg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/e/ef/Smartwatches.jpeg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASmartwatches.jpeg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Ka Kit Pang",
+      "attribution": "Google",
+      "source_dimensions": [
+        5504,
+        3096
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-011": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-011.jpg",
+      "alt": "Watches reference photograph: Garmin Instinct 2s.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Garmin Instinct 2s.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/9/95/Garmin_Instinct_2s.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGarmin_Instinct_2s.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Lomrjyo",
+      "attribution": "",
+      "source_dimensions": [
+        1883,
+        1981
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-012": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-012.jpg",
+      "alt": "Watches reference photograph: Samsung Gear S3.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Samsung Gear S3.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/a/a2/Samsung_Gear_S3.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASamsung_Gear_S3.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Kałasznikow",
+      "attribution": "",
+      "source_dimensions": [
+        2462,
+        3694
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-013": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-013.jpg",
+      "alt": "Watches reference photograph: AGENT smartwatch prototype by Secret Labs - WP 20130627 031 (15837480416).jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "AGENT smartwatch prototype by Secret Labs - WP 20130627 031 (15837480416).jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/1/11/AGENT_smartwatch_prototype_by_Secret_Labs_-_WP_20130627_031_%2815837480416%29.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AAGENT_smartwatch_prototype_by_Secret_Labs_-_WP_20130627_031_%2815837480416%29.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Pete Brown from Gambrills, MD, USA",
+      "attribution": "",
+      "source_dimensions": [
+        3264,
+        1836
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-014": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-014.jpg",
+      "alt": "Watches reference photograph: Pebble smartwatch size.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Pebble smartwatch size.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/2/2e/Pebble_smartwatch_size.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3APebble_smartwatch_size.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Romazur",
+      "attribution": "",
+      "source_dimensions": [
+        2448,
+        2448
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-015": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-015.jpg",
+      "alt": "Watches reference photograph: Xiaomi band 6 or 7.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Xiaomi band 6 or 7.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/08/Xiaomi_band_6_or_7.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AXiaomi_band_6_or_7.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Luther King School Photos",
+      "attribution": "",
+      "source_dimensions": [
+        3264,
+        2448
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-016": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-016.jpg",
+      "alt": "Watches reference photograph: DZ09 smartwatch with home screen open.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "DZ09 smartwatch with home screen open.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/8/8d/DZ09_smartwatch_with_home_screen_open.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ADZ09_smartwatch_with_home_screen_open.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Albert Tomanek",
+      "attribution": "",
+      "source_dimensions": [
+        3004,
+        3004
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-017": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-017.jpg",
+      "alt": "Watches reference photograph: Samsung Galaxy Gear in cradle.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Samsung Galaxy Gear in cradle.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/5/5f/Samsung_Galaxy_Gear_in_cradle.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASamsung_Galaxy_Gear_in_cradle.jpg",
+      "license": "CC BY 2.0",
+      "license_url": "https://creativecommons.org/licenses/by/2.0",
+      "artist": "Kārlis Dambrāns",
+      "attribution": "",
+      "source_dimensions": [
+        4190,
+        2793
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-018": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-018.jpg",
+      "alt": "Watches reference photograph: Yuntab Smartwatch (2018) 02.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Yuntab Smartwatch (2018) 02.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/b/b0/Yuntab_Smartwatch_%282018%29_02.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AYuntab_Smartwatch_%282018%29_02.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Donald Trung Quoc Don (Chữ Hán: 徵國單) - Wikimedia Commons.(Want to use this image?)",
+      "attribution": "",
+      "source_dimensions": [
+        1728,
+        3072
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-019": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-019.jpg",
+      "alt": "Watches reference photograph: Grey Smart Watch.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Grey Smart Watch.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/0/05/Grey_Smart_Watch.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3AGrey_Smart_Watch.jpg",
+      "license": "CC BY-SA 4.0",
+      "license_url": "https://creativecommons.org/licenses/by-sa/4.0",
+      "artist": "Srini297",
+      "attribution": "",
+      "source_dimensions": [
+        4640,
+        2140
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    },
+    "SYN-06-020": {
+      "category": "Watches",
+      "path": "assets/products/accessories/SYN-06-020.jpg",
+      "alt": "Watches reference photograph: Samsung Galaxy Watch series.jpg",
+      "source": "Wikimedia Commons",
+      "source_title": "Samsung Galaxy Watch series.jpg",
+      "source_url": "https://upload.wikimedia.org/wikipedia/commons/d/d6/Samsung_Galaxy_Watch_series.jpg?utm_source=commons.wikimedia.org&utm_campaign=imageinfo&utm_content=original",
+      "source_page": "https://commons.wikimedia.org/wiki/File%3ASamsung_Galaxy_Watch_series.jpg",
+      "license": "CC BY 3.0",
+      "license_url": "https://creativecommons.org/licenses/by/3.0",
+      "artist": "Ka Kit Pang",
+      "attribution": "Google",
+      "source_dimensions": [
+        3024,
+        4032
+      ],
+      "product_identity_note": "Category-reference photograph only; not a photograph of the synthetic catalogue SKU or its fictional brand."
+    }
+  }
+}

@@ -1,0 +1,17 @@
+query,method,recommended_product_ids,relevant_category,precision_at_5,recall_at_5,mrr_at_5,ndcg_at_5,latency_ms,budget_satisfaction
+lightweight wireless headphones,Keyword,"SYN-01-001, SYN-01-002, SYN-01-003, SYN-01-004, SYN-01-005",Headphones,1.0,0.25,1.0,1.0,1.124470999911864,1.0
+lightweight wireless headphones,TF-IDF,"SYN-01-001, SYN-01-007, SYN-01-019, SYN-01-013, SYN-01-009",Headphones,1.0,0.25,1.0,1.0,2.3315570001614105,0.4
+lightweight wireless headphones,Context-aware TF-IDF,"SYN-01-013, SYN-01-007, SYN-01-001, SYN-01-019, SYN-01-003",Headphones,1.0,0.25,1.0,1.0,2.3315570001614105,0.6
+lightweight wireless headphones,Five-agent ranking,"SYN-01-013, SYN-01-001, SYN-01-003, SYN-01-011, SYN-01-005",Headphones,1.0,0.25,1.0,1.0,14.549497000189149,1.0
+water resistant travel backpack,Keyword,,Backpacks,0.0,0.0,0.0,0.0,1.5176160000009986,0.0
+water resistant travel backpack,TF-IDF,"SYN-02-002, SYN-02-020, SYN-02-014, SYN-02-008, SYN-06-002",Backpacks,0.8,0.2,1.0,0.8687949224876582,2.4027900003602554,0.6
+water resistant travel backpack,Context-aware TF-IDF,"SYN-02-008, SYN-02-002, SYN-02-020, SYN-02-014, SYN-02-010",Backpacks,1.0,0.25,1.0,1.0,2.4027900003602554,0.8
+water resistant travel backpack,Five-agent ranking,"SYN-02-002, SYN-02-020, SYN-02-014, SYN-02-010, SYN-02-004",Backpacks,1.0,0.25,1.0,1.0,11.946232999889617,1.0
+cushioned running shoes breathable,Keyword,"SYN-04-001, SYN-04-002, SYN-04-003, SYN-04-004, SYN-04-005",Running Shoes,1.0,0.25,1.0,1.0,0.8928689999265771,1.0
+cushioned running shoes breathable,TF-IDF,"SYN-04-014, SYN-04-020, SYN-04-008, SYN-04-002, SYN-04-001",Running Shoes,1.0,0.25,1.0,1.0,2.1396080001068185,0.8
+cushioned running shoes breathable,Context-aware TF-IDF,"SYN-04-002, SYN-04-020, SYN-04-014, SYN-04-008, SYN-04-007",Running Shoes,1.0,0.25,1.0,1.0,2.1396080001068185,0.8
+cushioned running shoes breathable,Five-agent ranking,"SYN-04-002, SYN-04-020, SYN-04-007, SYN-04-014, SYN-04-019",Running Shoes,1.0,0.25,1.0,1.0,11.347954000029858,1.0
+insulated stainless steel water bottle,Keyword,"SYN-02-002, SYN-02-008, SYN-02-014, SYN-02-020, SYN-05-001",Water Bottles,0.2,0.05,0.2,0.13120507751234178,0.8859449999363278,0.0
+insulated stainless steel water bottle,TF-IDF,"SYN-05-010, SYN-05-016, SYN-05-004, SYN-05-001, SYN-05-013",Water Bottles,1.0,0.25,1.0,1.0,2.0699980000244977,0.6
+insulated stainless steel water bottle,Context-aware TF-IDF,"SYN-05-004, SYN-05-016, SYN-05-010, SYN-05-001, SYN-05-019",Water Bottles,1.0,0.25,1.0,1.0,2.0699980000244977,0.4
+insulated stainless steel water bottle,Five-agent ranking,"SYN-05-004, SYN-05-010, SYN-05-013, SYN-05-007, SYN-05-017",Water Bottles,1.0,0.25,1.0,1.0,11.064254000302753,1.0

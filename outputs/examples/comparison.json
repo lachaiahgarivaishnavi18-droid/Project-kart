@@ -1,0 +1,29 @@
+{
+  "generated_at_utc": "2026-11-03T06:38:04.503562+00:00",
+  "query": "Lightweight wireless headphones for travel under 3000",
+  "products": [
+    {
+      "product_id": "SYN-01-013",
+      "product_name": "Northstar Headphones 13",
+      "brand": "Northstar",
+      "price": 1771,
+      "rating": 4.4,
+      "specifications": "wireless; lightweight",
+      "availability": "In stock",
+      "description": "Northstar headphones for audio, featuring wireless and lightweight.",
+      "explanation": "Northstar Headphones 13 is recommended because its catalogue description matches the query (TF-IDF score 0.458), catalogue rating 4.4/5, within the stated budget. Catalogue evidence: Northstar headphones for audio, featuring wireless and lightweight. wireless; lightweight. Availability: In stock. No claims beyond the catalogue fields are inferred."
+    },
+    {
+      "product_id": "SYN-01-001",
+      "product_name": "Northstar Headphones 01",
+      "brand": "Northstar",
+      "price": 900,
+      "rating": 3.2,
+      "specifications": "wireless; lightweight",
+      "availability": "Limited stock",
+      "description": "Northstar headphones for audio, featuring wireless and lightweight.",
+      "explanation": "Northstar Headphones 01 is recommended because its catalogue description matches the query (TF-IDF score 0.458), catalogue rating 3.2/5, within the stated budget. Catalogue evidence: Northstar headphones for audio, featuring wireless and lightweight. wireless; lightweight. Availability: Limited stock. No claims beyond the catalogue fields are inferred."
+    }
+  ],
+  "comparison_note": "Advantages and limitations are restricted to the listed synthetic catalogue fields."
+}
